@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/xin/PycharmProjects/AIFA/test2.tfl"
+all_model_checkpoint_paths: "/home/xin/PycharmProjects/AIFA/test2.tfl"
